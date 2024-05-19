@@ -1,0 +1,7 @@
+{
+  "ar": [
+    "enter_password",
+    "privacy_policy_two",
+    "formation_to_us_then_two"
+  ]
+}

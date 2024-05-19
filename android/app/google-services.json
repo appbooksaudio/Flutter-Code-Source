@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "301900814891",
+    "project_id": "ejaz-ca748",
+    "storage_bucket": "ejaz-ca748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301900814891:android:a2b8d1a93a8efc2b90686e",
+        "android_client_info": {
+          "package_name": "com.ejazapphbku.ejazapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301900814891-e7pfg5ma3632f8ev206svtuomk8aletj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ejazapphbku.ejazapp",
+            "certificate_hash": "eb03f007e2019f8f24744c37aa77f6a6e77ced32"
+          }
+        },
+        {
+          "client_id": "301900814891-tlvqag3hr7pljrbpdqnrrftrq07usvrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ejazapphbku.ejazapp",
+            "certificate_hash": "314a7ebdf16d0bbc3f058a8152509442da8cf3d6"
+          }
+        },
+        {
+          "client_id": "301900814891-l2upq1ktcp6acish9dk5o487eao3t1ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOm95yUw4S8XOd8DPhgJ40BLzqFHEYQjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301900814891-8d60oeh5b11cgt2mvivsr3v00kehsm6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301900814891-34daidulkl5djofgpnm59q91ni3vusb9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ejazapphbku.ejazapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+
+}

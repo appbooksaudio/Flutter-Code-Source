@@ -1,0 +1,7 @@
+{
+  "id": [
+    "enter_password",
+    "follow_your_favorites",
+    "find_and_attend"
+  ]
+}
